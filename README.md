@@ -19,8 +19,8 @@ Python project to track API response times, HTTP status codes, and errors. Data 
 
 localhost:3000/login
 
-gmail: admin
-pass: admin
+**gmail:**  =  admin
+**pass:**   =  admin
 
 ## Setup Instructions
 1.**Clone the repo:**
