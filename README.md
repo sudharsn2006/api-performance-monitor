@@ -14,6 +14,14 @@ Python project to track API response times, HTTP status codes, and errors. Data 
 - Python (Flask, Requests, SQLite)
 - Grafana (Dashboard JSON included)
 
+
+## **Grafana Login:**
+
+localhost:3000/login
+
+gmail: admin
+pass: admin
+
 ## Setup Instructions
 1.**Clone the repo:**
 
